@@ -1,0 +1,8 @@
+#use glob syntax
+syntax: glob
+
+docs/WEB-INF*
+docs/META-INF*
+.classpath
+.project
+.settings
